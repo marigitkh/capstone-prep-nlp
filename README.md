@@ -9,22 +9,22 @@ This repository is a collection of projects and resources focused on Natural Lan
   Status: Completed
 
 - **FasText**  
-  Status: NA
+  Status: *In Progress*
 
 - **RNNs**   
-  Status: NA
+  Status: *In Progress*
 
 - **Transformers**  
-  Status: NA
+  Status: *In Progress*
 
 - **About BERT**  
-  Status: NA
+  Status: *In Progress*
 
 - **Huggingface Generation**  
-  Status: NA
+  Status: *In Progress*
 
 - **Huggingface Training**  
-  Status: Learning to train with Huggingface
+  Status: *In Progress*
 
 ## Repository Structure
 

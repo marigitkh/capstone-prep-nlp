@@ -8,10 +8,10 @@ This repository is a collection of projects and resources focused on Natural Lan
 - **Word2Vec**  
   Status: Completed
 
-- **FasText**  
+- **RNNs**   
   Status: *In Progress*
 
-- **RNNs**   
+  - **LSTM**  
   Status: *In Progress*
 
 - **Transformers**  

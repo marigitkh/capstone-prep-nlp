@@ -5,26 +5,7 @@ This repository is a collection of projects and resources focused on Natural Lan
 
 ## Topics Covered
 
-- **Word2Vec**  
-  Status: Completed
 
-- **RNNs**   
-  Status: *In Progress*
-
-  - **LSTM**  
-  Status: *In Progress*
-
-- **Transformers**  
-  Status: *In Progress*
-
-- **About BERT**  
-  Status: *In Progress*
-
-- **Huggingface Generation**  
-  Status: *In Progress*
-
-- **Huggingface Training**  
-  Status: *In Progress*
 
 ## Repository Structure
 
